@@ -3,5 +3,5 @@ This file contains the addresses of some of the deployed contracts.
 
 Token addresses :
 
-* Goerli : 
-* Sepolia : 
+* Goerli :   0x861b53CdeB4e168231f1DcDe53C7b0a19aBEC813
+* Sepolia :  0xF9a56B8a6e3F92886C9afc7D17cdD0E97f698C88
