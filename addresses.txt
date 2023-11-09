@@ -1,0 +1,7 @@
+This file contains the addresses of some of the deployed contracts.
+
+
+Token addresses :
+
+* Goerli : 
+* Sepolia : 
