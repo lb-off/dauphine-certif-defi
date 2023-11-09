@@ -16,9 +16,9 @@ contract MaxMintToken is ERC20 {
     mapping(address => uint256) private minted;
     uint256 public total_minted;
     uint256 public max_mint;
-    uint256 private max_mint_per_user;
+    uint256 public max_mint_per_user;
 
-    constructor(uint256 _max_mint, uint256 _max_mint_per_user) ERC20("EUI_coin", "EUC") {
+    constructor(uint256 _max_mint, uint256 _max_mint_per_user) ERC20("DauCoin", "DAC") {
         /*
         Warning: this function ahs been modified in order to be called in whole terms.
         This means that the _max_mint and _max_min_per_user variables are converted to variables
