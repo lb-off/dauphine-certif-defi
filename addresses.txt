@@ -8,4 +8,7 @@ Token addresses :
 
 AMM addresses :
 
-Not deployed yet !
+GOERLI uniquement
+
+DauCoin : 0x985A14B1f0606F8c4305eC10AfC4F68e57d7Fb31
+PhineCoin : 0xA7489b818611F492A76D5489f931890BbC8f76d4
